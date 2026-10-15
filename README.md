@@ -1167,6 +1167,7 @@ A curated list of awesome Lua frameworks, libraries and software.
 * [netxfly/nginx_lua_security](https://github.com/netxfly/nginx_lua_security) - 浅谈nginx+lua在安全中的应用
 * [wubonetcn/luawaf](https://github.com/wubonetcn/luawaf) - A secure and privately deployable web application firewall(WAF).一个安全、可私有部署的Web应用防火墙(WAF)。
 * [Gezine/Luac0re](https://github.com/Gezine/Luac0re) - Luac0re is a mast1c0re variation that uses Lua scripting for easier exploit development.
+* [PELock/Lua-Virtualizer-VSCode-Extension](https://github.com/PELock/Lua-Virtualizer-VSCode-Extension) - Next-generation Lua Virtualizer (VM, FSM, WEAVE), online interface, desktop/CLI, VSCode/VSX extension, API SDKs
 
 ### Authentication and Authorization
 
